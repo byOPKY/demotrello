@@ -1,0 +1,38 @@
+body{
+	background-image: url("../img/car60.png");
+	background-size: 100%;
+	background-repeat: repeat-x;
+	font-family: Verdana;
+	font-size: 14px;
+}
+.border{
+	border-radius: 5px;
+}
+.agregar{
+	background-color:  #3C121C;
+	padding:3%;
+	color: white;
+	opacity: 0.6;
+}
+.escribir{
+	padding:2%;
+	max-width: 100%;
+}
+.boton{
+	padding: 2% 3%;
+	color: #3C121C;
+	background-color:#BEF992;
+}
+.none{
+	background-color:  #5FB9B0;
+	margin: auto;
+	padding: 3%;
+	display: none;
+}
+.no{
+	display: none;
+}
+.si{
+	display: block;
+}
+/*#5FB9B0  #413D65
