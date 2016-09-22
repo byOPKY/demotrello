@@ -6,7 +6,7 @@
    Mostrar en el HTML, el texto ingresado al dar click en el botón de "Guardar" del formulario. 
    Y debajo mostrar el mensaje clickeable de "Añadir una tarjea".  
   **VERSIÓN 0.0.3**  
-   Una vez agregada la lista, mostrar el mensaje clickeable de "Añadir una lista" al lado de la lista agregada.
+   Una vez agregada la lista, mostrar el mensaje clickeable de "Añadir una lista" al lado de la lista agregada.  
   **VERSIÓN 0.0.4**  
    Al dar click en "Añadir una lista", asegurarse que el input del formulario tenga el focus para poder escribir directamente el nombre de la lista.  
    Dar click al mensaje "Añadir una tarjeta" y mostrar e formulario para agregar la tarjeta (Nota: El ingreso de texto es mediante un textarea).  
