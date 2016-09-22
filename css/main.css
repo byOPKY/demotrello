@@ -5,9 +5,6 @@ body{
 	font-family: Verdana;
 	font-size: 14px;
 	white-space:nowrap;
-	overflow: scroll;
-	overflow-x: auto;
-	overflow-y: hidden;
 }
 .width{
 	max-width: 100%;
@@ -36,6 +33,13 @@ body{
 	padding: 2% 3%;
 	color: #3C121C;
 	background-color:#BEF992;
+	display: block;
+}
+.aBoton{
+	padding: 2% 3%;
+	color: #3C121C;
+	background-color:#5FB9B0;
+	display: block;
 }
 .none{
 	background-color:  #5FB9B0;
@@ -51,21 +55,33 @@ body{
 	display: block;
 }
 .primer{
-	width: 15%;
+	width: 20%;
 	float: left;
 }
 .primero{
-	width: 15%;
+	width: 20%;
 	float: left;
 }
 .cuadro{
 	margin: 10px;
 	padding: 10px;
 	background-color:  #5FB9B0;
-
 }
-
+.cuadro2{
+	margin: 10px;
+	padding: 10px;
+	background-color: #BEF992;
+}
+a{
+	padding: 10px;
+}
 .titulo{
+	padding: 10px;
 	font-weight: bolder;
 }
+.textos{
+	font-weight: bold;
+	font-style: italic;
+}
+
 /*#5FB9B0  #413D65
