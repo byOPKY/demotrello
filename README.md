@@ -10,13 +10,15 @@
    * En el documento Javascript cree la funcion principal que es onload, para que todos los demas eventos empiecen cuando la web este completamente caragada.
    * A todas mis variables les puse el nombre del ID.
    * Al ID agregar le hice un evento se haga click para que desparezca el div y aparezca el formulario.
-  **VERSIÓN 0.0.2**  
+
+**VERSIÓN 0.0.2**  
    Mostrar en el HTML, el texto ingresado al dar click en el botón de "Guardar" del formulario. 
    Y debajo mostrar el mensaje clickeable de "Añadir una tarjeta".  
    * Al boton guardar le hice un boton al hacer click y cree un selector div con la variable llamada cuadro, y la inserte como ultimo hijo.
    * Dentro de nuevo div llamado cuadro: cree un div llamado titulo y tenga el valor que escriba el usuario en el input escribir; Cree otro selector a con la variable input para que sea clickeable y ademas le cree un Nodo texto con la variable link.
-  **VERSIÓN 0.0.3**  
-   Una vez agregada la lista, mostrar el mensaje clickeable de "Añadir una lista" al lado de la lista agregada.  
+  
+**VERSIÓN 0.0.3**  
+   *Una vez agregada la lista, mostrar el mensaje clickeable de "Añadir una lista" al lado de la lista agregada.  
    * En el input cree un evento para cuando se haga click, se vea un nuevo formulario 
   **VERSIÓN 0.0.4**  
    Al dar click en "Añadir una lista", asegurarse que el input del formulario tenga el focus para poder escribir directamente el nombre de la lista.  
