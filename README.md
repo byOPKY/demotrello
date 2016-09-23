@@ -22,12 +22,17 @@
    Una vez agregada la lista, mostrar el mensaje clickeable de "Añadir una lista" al lado de la lista agregada. 
 
    * En el input cree un evento para cuando se haga click, se vea un nuevo formulario 
+   * Coloque a los nuevos cuadro en float left y con appendchild
+   
 **VERSIÓN 0.0.4**  
    Al dar click en "Añadir una lista", asegurarse que el input del formulario tenga el focus para poder escribir directamente el nombre de la lista.  
    Dar click al mensaje "Añadir una tarjeta" y mostrar e formulario para agregar la tarjeta (Nota: El ingreso de texto es mediante un textarea).  
-  
+   * Cree otro div con variable cuadro2; y lo puse con appendchild dentro del cuadro
+   * 
+
 **VERSIÓN 0.0.5**  
    Al dar click en el botón de guardar al momento de añadir tarjeta, mostrar el mensaje de "Añadir tarjeta" debajo de la tarjeta añadida.  
+   
  
   **VERSIÓN 0.0.6 (EXTRA)**  
    Asegurar la funcionalidad de poder agregar múltiples listas y tarjetas.  
