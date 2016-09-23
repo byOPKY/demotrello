@@ -73,7 +73,8 @@ window.onload = function () {
 
 			});
 			agregar.addEventListener("click", function() {
-				input.classList.add("si")});
+				input.classList.add("si");
+			cuadro2.classList.add("no"); });
 			});
 		
 		});
