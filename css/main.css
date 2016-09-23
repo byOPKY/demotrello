@@ -4,18 +4,20 @@ body{
 	background-repeat: repeat-x;
 	font-family: Verdana;
 	font-size: 14px;
+	white-space:nowrap;
 }
 .width{
 	max-width: 100%;
 }
 .nav{
 	background-color:#BEF992;
-	padding: 2%;
+	padding: 1%;
 }
 
 .border{
 	border-radius: 5px;
 }
+
 .agregar{
 	background-color:  #3C121C;
 	padding:3%;
@@ -31,13 +33,20 @@ body{
 	padding: 2% 3%;
 	color: #3C121C;
 	background-color:#BEF992;
+	display: block;
+}
+.aBoton{
+	padding: 2% 3%;
+	color: #3C121C;
+	background-color:#5FB9B0;
+	display: block;
 }
 .none{
 	background-color:  #5FB9B0;
 	margin: auto;
 	margin: 5%;
 	padding: 3%;
-	display: none;
+	
 }
 .no{
 	display: none;
@@ -45,4 +54,34 @@ body{
 .si{
 	display: block;
 }
+.primer{
+	width: 20%;
+	float: left;
+}
+.primero{
+	width: 20%;
+	float: left;
+}
+.cuadro{
+	margin: 10px;
+	padding: 10px;
+	background-color:  #5FB9B0;
+}
+.cuadro2{
+	margin: 10px;
+	padding: 10px;
+	background-color: #BEF992;
+}
+a{
+	padding: 10px;
+}
+.titulo{
+	padding: 10px;
+	font-weight: bolder;
+}
+.textos{
+	font-weight: bold;
+	font-style: italic;
+}
+
 /*#5FB9B0  #413D65
