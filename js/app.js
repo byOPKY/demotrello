@@ -72,9 +72,10 @@ window.onload = function () {
 				input.classList.remove("no")
 
 			});
+			
 			agregar.addEventListener("click", function() {
 				input.classList.add("si");
-			cuadro2.classList.add("no"); });
+				cuadro2.classList.add("no"); });
 			});
 		
 		});
